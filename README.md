@@ -10,6 +10,6 @@
       
   **Note: Donot forget to add M, G, K characters with the file size**
   
-  **Output of Script**
+  **Output of Script:**
   
-                   ![image](https://github.com/Kaustubh-Wadagavi/FindBigFiles/blob/master/Output/Output.png)
+  ![image](https://github.com/Kaustubh-Wadagavi/FindBigFiles/blob/master/Output/Output.png)
