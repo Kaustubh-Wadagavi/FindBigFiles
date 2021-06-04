@@ -1,4 +1,4 @@
-# Find Big Files over the disk
+# Find big Files over the disk by specifying fileExtension and fileSize
 
 **How to Run**
 
